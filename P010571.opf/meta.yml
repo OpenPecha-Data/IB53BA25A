@@ -4,4 +4,19 @@ source_metadata:
   id: bdr:W1AC321
   title: 'ཕྱག་ཆེན་རྒྱ་གཞུང་། '
   author: ''
-  volumes: {}
+  volumes:
+    c0a370cfbdf94c46a03a52a3f6b4e124:
+      image_group_id: I2PD18066
+      title: ''
+      volume_number: 1
+      total_pages: 526
+    51d70b2b6ea54f419d31d9bb75e30bb9:
+      image_group_id: I2PD18067
+      title: ''
+      volume_number: 2
+      total_pages: 522
+    5f9840c0f7094011949e2f7e3adb3c82:
+      image_group_id: I2PD18068
+      title: ''
+      volume_number: 3
+      total_pages: 610
